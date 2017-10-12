@@ -31,6 +31,7 @@
 #include <poll.h>
 #include <pthread.h>
 #include <stdint.h> /* for uint64_t */
+#include <string.h>
 
 #include "ant_types.h"
 #include "antradio_power.h"
